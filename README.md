@@ -71,17 +71,21 @@ This dashboard provides **clarity in complexity** by combining interactive filte
 
 ** ## 📷 Dashboard Preview  
 
-### 🖼 Overview Dashboard  
-![Dashboard Overview](Screenshot1.png)
+### 🖼 Overview Dashboard 
+<img width="1014" height="569" alt="Screenshot 2025-09-06 at 12 37 48 AM" src="https://github.com/user-attachments/assets/ebde3b95-2f88-40f9-9edf-a4f42e833a1b" />
+
 
 ### 🖼 Loan Analysis  
-![Loan Analysis](Screenshot2.png)
+<img width="830" height="470" alt="Screenshot 2025-09-06 at 12 38 16 AM" src="https://github.com/user-attachments/assets/efcb0531-4b6e-4e58-a4a2-536e93134d72" />
 
-### 🖼 Risk Analysis  
-![Risk Analysis](Screenshot4.png)
+
+### 🖼 Risk Analysis 
+<img width="833" height="469" alt="Screenshot 2025-09-06 at 12 38 41 AM" src="https://github.com/user-attachments/assets/035af9e2-b73f-4f02-ac02-513ebf4e1032" />
+
 
 ### 🖼 Deposit Analysis  
-![Deposit Analysis](Screenshot3.png)
+
+<img width="831" height="467" alt="Screenshot 2025-09-06 at 12 38 58 AM" src="https://github.com/user-attachments/assets/874b7599-bd0f-4e02-a63d-a3a559c9fde2" />
 
 
 ---
